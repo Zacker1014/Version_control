@@ -1,0 +1,9 @@
+git init
+git add . //add all the file in this dir
+git rm --cached -r . //remove all from staging 
+git status
+git log
+git commit -m "important message" 
+git remote add origin "http:/github.........."
+git push -u origin master
+
